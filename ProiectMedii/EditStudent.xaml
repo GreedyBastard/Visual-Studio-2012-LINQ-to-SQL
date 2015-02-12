@@ -1,0 +1,12 @@
+﻿<Window x:Class="ProiectMedii.EditStudent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EditStudent" Height="320" Width="441">
+    <Grid>
+        <DataGrid x:Name="EditGrid" HorizontalAlignment="Left" Margin="10,53,0,0" VerticalAlignment="Top" Height="214" Width="276" Loaded="Window_Loaded"/>
+        <Button Content="Update Info" HorizontalAlignment="Left" Margin="291,53,0,0" VerticalAlignment="Top" Width="117" Height="33" Click="Button_Click_1"/>
+        <Button Content="Sterge Student" HorizontalAlignment="Left" Margin="291,91,0,0" VerticalAlignment="Top" Width="117" Height="33" Click="StergeStudent_Click"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="291,234,0,0" VerticalAlignment="Top" Width="117" Height="33" Click="Button_Cancel"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="ProiectMedii.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Studenti" Height="350" Width="525">
+    <Grid>
+        <Menu x:Name="Meniu" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top"> 
+            <MenuItem Header="_Meniu" >
+                <MenuItem Header="Adauga Student" Click="MenuItem_AdaugaStudent"/>
+                <MenuItem Header="Adauga Clasa" Click="MenuItem_AdaugaClasa"/>
+                <MenuItem Header="_Exit" Click="MenuItem_Exit"/>
+            </MenuItem>
+            <MenuItem Header="_Editare">
+                <MenuItem Header="Editare Studenti" Click="MenuItem_Edit"/>
+                <MenuItem Header="Editare Clasa"/>
+            </MenuItem>
+            <MenuItem Header="_Afisare">
+                <MenuItem Header="Afisare Studenti" Click="MenuItem_AfisareStudent"/>
+                <MenuItem Header="Afisare Clasa" Click="MenuItem_AfisareClasa"/>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

@@ -1,0 +1,200 @@
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe.config
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csprojResolveAssemblyReference.cache
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.baml
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.g.cs
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\App.g.cs
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii_MarkupCompile.cache
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.g.resources
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.Properties.Resources.resources
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csproj.GenerateResource.Cache
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.baml
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.g.cs
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.baml
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.baml
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.baml
+C:\Users\Greedy\Desktop\Proiect 2 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe.config
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csprojResolveAssemblyReference.cache
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.baml
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.baml
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.baml
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.baml
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.baml
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\App.g.cs
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii_MarkupCompile.cache
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.g.resources
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.Properties.Resources.resources
+C:\Users\Greedy\Desktop\Proiect 3 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csproj.GenerateResource.Cache
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe.config
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csprojResolveAssemblyReference.cache
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.baml
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.baml
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.baml
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.baml
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.baml
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.g.cs
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.g.cs
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\App.g.cs
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii_MarkupCompile.cache
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.g.resources
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.Properties.Resources.resources
+C:\Users\Greedy\Desktop\Proiect 4 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csproj.GenerateResource.Cache
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe.config
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csprojResolveAssemblyReference.cache
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.baml
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.baml
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.baml
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.baml
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.baml
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.g.cs
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.g.cs
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\App.g.cs
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii_MarkupCompile.cache
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.g.resources
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.Properties.Resources.resources
+C:\Users\Greedy\Desktop\Proiect 5 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csproj.GenerateResource.Cache
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe.config
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csprojResolveAssemblyReference.cache
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.baml
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.baml
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.baml
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.baml
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.baml
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.baml
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.g.cs
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.g.cs
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\App.g.cs
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii_MarkupCompile.cache
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.g.resources
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.Properties.Resources.resources
+C:\Users\Greedy\Desktop\Proiect 6 Medii\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csproj.GenerateResource.Cache
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe.config
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csprojResolveAssemblyReference.cache
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.baml
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.baml
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.baml
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.baml
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.baml
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.baml
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.baml
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.g.cs
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.g.cs
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.g.cs
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.g.cs
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\App.g.cs
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii_MarkupCompile.cache
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.g.resources
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.Properties.Resources.resources
+C:\Users\Greedy\Desktop\Proiect\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csproj.GenerateResource.Cache
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe.config
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csprojResolveAssemblyReference.cache
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.baml
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.baml
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.baml
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.baml
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.baml
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.baml
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.baml
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.g.cs
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.g.cs
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.g.cs
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.g.cs
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.g.cs
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.g.cs
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.g.cs
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\App.g.cs
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii_MarkupCompile.cache
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.g.resources
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.Properties.Resources.resources
+C:\Users\Greedy\Desktop\Popescu Victor\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csproj.GenerateResource.Cache
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe.config
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.exe
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\bin\Debug\ProiectMedii.pdb
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csprojResolveAssemblyReference.cache
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.baml
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.baml
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.baml
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.baml
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.baml
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.baml
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.baml
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\AdaugareClasa.g.cs
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\AdaugareStudent.g.cs
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\AfisareClasa.g.cs
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\AfisareStudenti.g.cs
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\EditStudent.g.cs
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\MainWindow.g.cs
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\UpdateStudent.g.cs
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\App.g.cs
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii_MarkupCompile.cache
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.g.resources
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.Properties.Resources.resources
+C:\Users\Greedy\Desktop\ProiectMedii\ProiectMedii\obj\Debug\ProiectMedii.csproj.GenerateResource.Cache

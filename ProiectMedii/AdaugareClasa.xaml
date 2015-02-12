@@ -1,0 +1,16 @@
+﻿<Window x:Class="ProiectMedii.AdaugareClasa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AdaugareClasa" Height="300" Width="300">
+    <Grid>
+        <Label Content="Clasa" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top"/>
+        <Label Content="Credite" HorizontalAlignment="Left" Margin="30,92,0,0" VerticalAlignment="Top"/>
+        <Label Content="Descriere" HorizontalAlignment="Left" Margin="30,61,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="AdaugaClasa" Content="Adauga" HorizontalAlignment="Left" Margin="30,199,0,0" VerticalAlignment="Top" Width="75" Click="AdaugaClasa_Click"/>
+        <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="152,199,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="1.88,1.089" Click="Cancel_Click"/>
+        <TextBox x:Name="Clasa" HorizontalAlignment="Left" Height="23" Margin="126,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Credite" HorizontalAlignment="Left" Height="23" Margin="126,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Descriere" HorizontalAlignment="Left" Height="23" Margin="126,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

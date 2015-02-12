@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Data" Class="ProiectDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=&quot;C:\Users\Greedy\Desktop\Proiect\ProiectMedii\Baza de date\Data.mdf&quot;;Integrated Security=True;Connect Timeout=30" SettingsObjectName="ProiectMedii.Properties.Settings" SettingsPropertyName="DataConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Clasa" Member="Clasas">
+    <Type Name="Clasa">
+      <Column Name="IdClasa" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[Nume Clasa]" Member="Nume_Clasa" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Descriere" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Credite" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Clasa_Inregistrare" Member="Inregistrares" ThisKey="IdClasa" OtherKey="IdClasa" Type="Inregistrare" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Inregistrare" Member="Inregistrares">
+    <Type Name="Inregistrare">
+      <Column Name="IdInregistrare" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdStudent" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdClasa" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Clasa_Inregistrare" Member="Clasa" ThisKey="IdClasa" OtherKey="IdClasa" Type="Clasa" IsForeignKey="true" />
+      <Association Name="Student_Inregistrare" Member="Student" ThisKey="IdStudent" OtherKey="IdStudent" Type="Student" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="IdStudent" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nume" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Prenume" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Sex" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Media" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Association Name="Student_Inregistrare" Member="Inregistrares" ThisKey="IdStudent" OtherKey="IdStudent" Type="Inregistrare" />
+    </Type>
+  </Table>
+</Database>
